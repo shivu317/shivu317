@@ -130,11 +130,6 @@ while(True):
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivu317&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
 ## 📫 Let's Connect
 
 📍 Pune, Maharashtra, India
