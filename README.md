@@ -1,6 +1,20 @@
-<div align="center">
+╔══════════════════════════════╗
+║      Animated Hero Banner    ║
+╠══════════════════════════════╣
+║ Hi, I'm Shivani 👋           ║
+║ Data Analyst • ML Enthusiast ║
+║ Turning Data into Insights   ║
+╚══════════════════════════════╝
 
-# Hi there 👋, I'm Shivani Dhumane
+About Me
+Tech Stack
+Current Focus
+Featured Projects
+GitHub Analytics
+Contribution Snake
+Achievements
+2026 Goals
+Let's Connect
 
 ### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Turning Data into Business Decisions
 
