@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:1F6FEB,100:00C2FF&text=SHIVANI%20DHUMANE&fontSize=55&fontAlignY=40&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Power%20BI%20Developer&descAlignY=58&animation=fadeIn"/>
 
