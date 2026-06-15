@@ -1,20 +1,8 @@
-╔══════════════════════════════╗
-║      Animated Hero Banner    ║
-╠══════════════════════════════╣
-║ Hi, I'm Shivani 👋           ║
-║ Data Analyst • ML Enthusiast ║
-║ Turning Data into Insights   ║
-╚══════════════════════════════╝
+div align="center">
 
-About Me
-Tech Stack
-Current Focus
-Featured Projects
-GitHub Analytics
-Contribution Snake
-Achievements
-2026 Goals
-Let's Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:1F6FEB,100:00C2FF&text=SHIVANI%20DHUMANE&fontSize=55&fontAlignY=40&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Power%20BI%20Developer&descAlignY=58&animation=fadeIn"/>
+
+# 👋 Hello World! I'm Shivani Dhumane
 
 ### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Turning Data into Business Decisions
 
