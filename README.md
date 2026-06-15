@@ -1,152 +1,159 @@
+<div align="center">
+
 # Hi there 👋, I'm Shivani Dhumane
 
-## 📊 Data Analyst | Aspiring Data Scientist
+### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Turning Data into Business Decisions
 
-I'm a results-driven Data Analyst passionate about transforming raw data into meaningful business insights. I enjoy building interactive dashboards, uncovering trends through exploratory analysis, and developing machine learning solutions to solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Insightful+Dashboards;Transforming+Data+into+Impact" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 📍 Based in Pune, Maharashtra, India
-- 🎓 MSc in Computer Science
-- 💼 Former Data Science Intern at Rubixe
-- 📈 Experienced in Power BI, SQL, Python, and Machine Learning
-- 🌱 Currently expanding my expertise in Data Analytics and Data Science
-- 🎯 Open to opportunities in Data Analyst and Data Scientist roles
+🔹 Results-driven Data Analyst with experience delivering end-to-end analytics solutions.
+
+🔹 Built Machine Learning models achieving **94–98% accuracy**.
+
+🔹 Designed interactive **Power BI dashboards** with **15+ DAX measures**.
+
+🔹 Passionate about transforming raw data into actionable business insights.
+
+🔹 Currently exploring advanced Machine Learning and Data Engineering concepts.
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Tech Stack
 
-### Programming & Databases
-- Python
-- SQL
-- MySQL
-- MongoDB
+### 📌 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Analytics & BI
-- Power BI
-- DAX
-- Power Query
-- Excel
-- Pivot Tables
-- VLOOKUP
+### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### Machine Learning
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 - Logistic Regression
 - Linear Regression
 - Random Forest
 - XGBoost
 - LightGBM
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
+- SVM
+- KNN
 - SMOTE
 
-### Core Concepts
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
-- Statistical Analysis
-- KPI Tracking
-- Dashboard Design
-- Data Storytelling
-
-### Tools
-- Jupyter Notebook
-- Power BI Desktop
-- Git
-- GitHub
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge)
 
 ---
 
-## 💼 Professional Experience
-
-### Data Science Intern | Rubixe
-**Jun 2025 – Dec 2025**
-
-- Delivered 4 end-to-end analytics and machine learning projects.
-- Improved model performance using EDA, feature engineering, and SMOTE.
-- Converted analytical findings into stakeholder-friendly business insights.
-
-### Junior Software Developer | Codereach Software and Education Pvt. Ltd.
-**Mar 2022 – Aug 2022**
-
-- Contributed to multiple client projects in Agile environments.
-- Maintained consistent on-time sprint delivery.
-
----
-
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
 ### 📊 Sales Performance Dashboard
-**Power BI | DAX | SQL | Excel**
-
-- Developed an interactive dashboard tracking ₹50Cr+ annual sales.
-- Created 15+ DAX measures for KPI reporting.
-- Reduced report refresh time by 60%.
-- Enabled leadership to identify underperforming regions quickly.
+- Multi-page Power BI Dashboard tracking **₹50Cr+ annual sales**
+- 15+ DAX Measures
+- Dynamic KPI Cards
+- Drill-through Analysis
+- Reduced reporting effort by **60%**
 
 ---
 
 ### 🏦 Bank Marketing Campaign Prediction
-**Python | XGBoost | Random Forest | SMOTE**
-
-- Analyzed 41,000+ customer records.
-- Achieved 88% ROC-AUC using XGBoost.
-- Improved recall through SMOTE-based balancing.
-- Identified high-conversion customer segments.
+- Analysed **41,000+ customer records**
+- XGBoost ROC-AUC: **88%**
+- SMOTE-based balancing
+- Improved recall by **12%**
 
 ---
 
 ### 💳 Customer Transaction Prediction
-**Python | XGBoost | LightGBM**
-
-- Built predictive models using 200 anonymized variables.
-- Achieved 94% accuracy.
-- Reduced false negatives through hyperparameter tuning.
-- Enhanced risk detection capabilities.
+- Feature Engineering on 200+ variables
+- XGBoost Accuracy: **94%**
+- Hyperparameter Tuning
+- Reduced false negatives by **18%**
 
 ---
 
-## 🎓 Education
+## 📚 Certifications
 
-**MSc – Computer Science**  
-K.K. Wagh College, Nashik  
-CGPA: 77.85%
+🏅 Certified Data Scientist – Datamites
 
-**BSc – Computer Science**  
-K.T.H.M. College, Nashik  
-CGPA: 56.33%
+🏅 Data Science Foundation – IABAC
 
 ---
 
-## 🏆 Certifications
+## 🌱 Currently Learning
 
-- Certified Data Scientist – Datamites
-- Data Science Foundation – IABAC
+```python
+while(True):
+    learn()
+    build_projects()
+    improve_skills()
+    share_knowledge()
+```
+
+- Advanced Machine Learning
+- Data Engineering Fundamentals
+- Cloud for Data Analytics
+- MLOps Concepts
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Stats
 
-- 📧 Email: dhumaneshivani9@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shivani31
-- 💻 GitHub: https://github.com/shivu317
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivu317&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu317&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivu317&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📈 GitHub Goals
+## 🏆 GitHub Trophies
 
-- Sharing Data Analytics and Machine Learning projects
-- Documenting my learning journey
-- Contributing to open-source projects
-- Building solutions that create business impact
+<div align="center">
 
-⭐ Feel free to explore my repositories and connect with me!
+<img src="https://github-profile-trophy.vercel.app/?username=shivu317&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+📍 Pune, Maharashtra, India
+
+📧 dhumaneshivani9@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/shivani31
+
+💻 GitHub: https://github.com/shivu317
+
+---
+
+<div align="center">
+
+### ⭐ "Without data, you're just another person with an opinion."
+
+Thanks for visiting my profile! 🚀
+
+</div>
