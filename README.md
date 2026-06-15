@@ -132,14 +132,9 @@ while(True):
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivu317&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivu317&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 ## 📫 Let's Connect
 
 📍 Pune, Maharashtra, India
