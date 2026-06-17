@@ -1,151 +1,250 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:1F6FEB,100:00C2FF&text=SHIVANI%20DHUMANE&fontSize=55&fontAlignY=40&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Power%20BI%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,25:161B22,50:1F6FEB,75:00C2FF,100:7EE787&text=SHIVANI%20DHUMANE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20Enthusiast%20|%20Power%20BI%20Developer&descAlignY=58"/>
 
-# 👋 Hello World! I'm Shivani Dhumane
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+Into+Business+Insights;Data+Analyst+%7C+Power+BI+Developer;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Analytics;Building+Data-Driven+Solutions"/>
 
-### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Turning Data into Business Decisions
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Insightful+Dashboards;Transforming+Data+into+Impact" />
+<img src="https://user-images.githubusercontent.com/74038190/212284126-7f7dd6ff-7f61-4c3c-8d17-7f239525f8f8.gif" width="800">
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 Digital Identity
 
-🔹 Results-driven Data Analyst with experience delivering end-to-end analytics solutions.
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-c4c7d42b-82c3-4f5c-a67f-6d8f8db4f2f6.gif"/>
 
-🔹 Built Machine Learning models achieving **94–98% accuracy**.
+### 👩‍💻 About Me
 
-🔹 Designed interactive **Power BI dashboards** with **15+ DAX measures**.
+```yaml
+Name: Shivani Dhumane
+Role: Data Analyst
+Location: Maharashtra, India
 
-🔹 Passionate about transforming raw data into actionable business insights.
+Expertise:
+  - Data Analytics
+  - Power BI Development
+  - Machine Learning
+  - Data Visualization
+  - Business Intelligence
 
-🔹 Currently exploring advanced Machine Learning and Data Engineering concepts.
-
----
-
-## 💻 Tech Stack
-
-### 📌 Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📊 Data Analytics & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-- Logistic Regression
-- Linear Regression
-- Random Forest
-- XGBoost
-- LightGBM
-- SVM
-- KNN
-- SMOTE
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge)
-
----
-
-## 🔥 Featured Projects
-
-### 📊 Sales Performance Dashboard
-- Multi-page Power BI Dashboard tracking **₹50Cr+ annual sales**
-- 15+ DAX Measures
-- Dynamic KPI Cards
-- Drill-through Analysis
-- Reduced reporting effort by **60%**
-
----
-
-### 🏦 Bank Marketing Campaign Prediction
-- Analysed **41,000+ customer records**
-- XGBoost ROC-AUC: **88%**
-- SMOTE-based balancing
-- Improved recall by **12%**
-
----
-
-### 💳 Customer Transaction Prediction
-- Feature Engineering on 200+ variables
-- XGBoost Accuracy: **94%**
-- Hyperparameter Tuning
-- Reduced false negatives by **18%**
-
----
-
-## 📚 Certifications
-
-🏅 Certified Data Scientist – Datamites
-
-🏅 Data Science Foundation – IABAC
-
----
-
-## 🌱 Currently Learning
-
-```python
-while(True):
-    learn()
-    build_projects()
-    improve_skills()
-    share_knowledge()
+Current Focus:
+  - Advanced Machine Learning
+  - Data Engineering
+  - Cloud Analytics
+  - MLOps
 ```
 
-- Advanced Machine Learning
-- Data Engineering Fundamentals
-- Cloud for Data Analytics
-- MLOps Concepts
+### 🎯 Professional Snapshot
+
+✔ Built ML models achieving **94-98% Accuracy**
+
+✔ Created Power BI Dashboards with **15+ DAX Measures**
+
+✔ Delivered End-to-End Analytics Projects
+
+✔ Strong in Data Cleaning, EDA & Visualization
+
+✔ Passionate about solving business problems through data
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 AI & Data Science Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivu317&show_icons=true&theme=tokyonight&hide_border=true"/>
+## ⚡ Programming
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu317&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivu317&layout=compact&theme=tokyonight&hide_border=true"/>
+## 📊 Analytics & BI
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel,pandas,numpy"/>
+
+## 🤖 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+# ⚙️ Machine Learning Universe
 
-📍 Pune, Maharashtra, India
+<div align="center">
 
-📧 dhumaneshivani9@gmail.com
+| Classification Models | Regression Models |
+|----------------------|-------------------|
+| Logistic Regression | Linear Regression |
+| Random Forest | Decision Trees |
+| XGBoost | Ensemble Methods |
+| LightGBM | Gradient Boosting |
+| SVM | Model Evaluation |
+| KNN | Hyperparameter Tuning |
 
-💼 LinkedIn: https://linkedin.com/in/shivani31
+</div>
 
-💻 GitHub: https://github.com/shivu317
+---
+
+# 🌌 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📊 Sales Performance Dashboard
+
+🚀 Power BI Analytics Solution
+
+💰 ₹50Cr+ Sales Analysis
+
+📈 Dynamic KPI Tracking
+
+📉 Drill Through Analysis
+
+⚡ 15+ DAX Measures
+
+🎯 Reduced Reporting Effort by 60%
+
+</td>
+
+<td width="50%">
+
+## 🏦 Bank Marketing Prediction
+
+📂 41,000+ Records
+
+🤖 XGBoost Model
+
+📊 ROC-AUC: 88%
+
+⚡ SMOTE Balancing
+
+🎯 Recall Improved by 12%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 💳 Customer Transaction Prediction
+
+📌 Feature Engineering on 200+ Variables
+
+📌 XGBoost Accuracy: 94%
+
+📌 Hyperparameter Optimization
+
+📌 Reduced False Negatives by 18%
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+🥇 Certified Data Scientist — Datamites
+
+🥈 Data Science Foundation — IABAC
+
+</div>
+
+---
+
+# 📊 GitHub Analytics Hub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivu317&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu317&theme=tokyonight&hide_border=true"/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivu317&theme=tokyo-night&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivu317&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌱 Current Learning Matrix
+
+```python
+class DataScientist:
+
+    def __init__(self):
+        self.skills = [
+            "Machine Learning",
+            "Power BI",
+            "Python",
+            "SQL",
+            "Analytics"
+        ]
+
+    def upgrade(self):
+        while True:
+            learn()
+            build_projects()
+            solve_business_problems()
+            improve_models()
+
+shivani = DataScientist()
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shivani31">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivu317">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:dhumaneshivani9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Without data, you're just another person with an opinion."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-Thanks for visiting my profile! 🚀
+### ⭐ "Data turns information into decisions."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F6FEB,100:00C2FF"/>
 
 </div>
